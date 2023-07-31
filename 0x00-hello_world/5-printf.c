@@ -1,6 +1,11 @@
 #include <stdio.h>
 
 
+/**
+* main -  does smth
+* Return: integer
+*/
+
 int main(void)
 {
 
