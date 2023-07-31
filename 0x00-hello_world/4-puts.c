@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+* main does smth
+*/
+
 
 int main(void)
 {
