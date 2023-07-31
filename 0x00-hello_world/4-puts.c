@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
-* main does smth
+* main -  does smth
+* Return : integer
 */
 
 
