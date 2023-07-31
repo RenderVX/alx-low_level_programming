@@ -12,15 +12,15 @@ int main(void)
 
 int a,b,c,d,e;
 a = sizeof(char);
-b = sizeof(int)
+b = sizeof(int);
 c = sizeof(long int);
 d = sizeof(long long int);
 e = sizeof(float);
   
 
 
-printf("Size of a char: %i byte(s) \n Size of an int: %i byte(s) \n Size of a long int: %i byte(s) \n",a,b,c)
-printf("Size of a long long int: %i byte(s) \n Size of a float: %i byte(s)\n",d,e)
+printf("Size of a char: %i byte(s) \n Size of an int: %i byte(s) \n Size of a long int: %i byte(s) \n",a,b,c);
+printf("Size of a long long int: %i byte(s) \n Size of a float: %i byte(s)\n",d,e);
 
 
 
