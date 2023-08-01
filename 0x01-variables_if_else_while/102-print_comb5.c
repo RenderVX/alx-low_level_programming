@@ -19,7 +19,7 @@ for (k = 48; k < 58; k++)
 {
 for (l = 48; l < 58; l++)
 {
-if (i > k || j > l)
+if (i > k || (j >= l && i == k))
 {
 continue;
 }
