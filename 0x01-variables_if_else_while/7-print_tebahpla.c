@@ -16,6 +16,6 @@ for (i = 122; i > 96; i--)
 {
 putchar(i);
 }
-putchar(20);
+putchar(10);
 return (0);
 }
